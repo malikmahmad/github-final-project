@@ -23,3 +23,6 @@ Run the Bash script and provide the following inputs when prompted:
 - Time period (T)
 
 The script will output the calculated Simple Interest value.
+
+## Notes
+Ensure bc is installed on your system to run the script.
